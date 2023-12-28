@@ -11,6 +11,9 @@
     4) Property Type Distribution
     5) Geo-Visualization
     6) Dashboard Creation Using Tableau
+       
+ ## KINDLY CHECK OUT THE VIDEO OF THE PROJECT : - [click here](https://www.linkedin.com/feed/update/urn:li:activity:7146018662175367169/)
+  
   #### I have listed the Feature of data below :
         Id                     0
         amenities              0
